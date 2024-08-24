@@ -5,7 +5,9 @@ Die Arbeit des OSI-Schichtenmodells kann man sich folgendermaßen vorstellen:
 Die Staatsoberhäupter von zwei Staaten möchten miteinander reden, sie sprechen allerdings leider nicht dieselbe Sprache. Der Staatschef von Transdingstanien spricht nur transdingstanisch, der andere Staatschef spricht nur seine eigene Landessprache urubambisch. Eine Kommunikation ist also nicht möglich.
 
 
-_Bild_ fehlt noch 
+![bild1](../figures/11_motivation_bild1.jpeg)
+
+
 
 :::{figure-md} markdown-fig
 <img src="../figures/11_motivation_bild1.jpeg" alt="Kommunikation der Staatsoberhäupter">
