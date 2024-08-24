@@ -33,3 +33,13 @@ Interessiert es die Staatschefs, in welcher Sprache die Übersetzer miteinander 
 ```{admonition} Antwort
 Natürlich nicht, denn die Kommunikationssprache ist völlig unabhängig von ihnen. Wichtig ist, dass die beiden Übersetzer dieselbe Sprache sprechen (es könnte auch problemlos Chinesisch, Schwäbisch oder einen andere Sprache sein).
 ```
+
+Ein Problem ist damit aber noch nicht gelöst. Jeder Geheimdienst eines Drittstaates könnte die Unterhaltung mithören, wenn ein Übersetzer vorhanden ist, der die gemeinsame Sprache versteht. 
+
+Die Lösung ist natürlich auch hier einfach. Die Sprache muss codiert werden, ein Verschlüsselungsspezialist muss her. Die beiden Ver-/Entschlüssler müssen über einen gemeinsamen Code verfügen, der nur diesen beiden bekannt ist (dieser kann auch schon vorher abgemacht worden sein).
+
+:::{figure-md} markdown-fig
+<img src="../figures/11_motivation_bild3.jpeg" alt="Verschlüsselte Kommunikation der Staatsoberhäupter mit Hilfe der Übersetzer">
+
+Verschlüsselte Kommunikation der Staatsoberhäupter mit Hilfe der Übersetzer
+:::
