@@ -2,9 +2,15 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Contents
+  - caption: Inhalt
     chapters:
-    - file: some_content/overview.md
+    - file: 1_Einfuehrung/1_start.md
       sections:
+      - file: 1_Einfuehrung/11_motivation.md
+      - file: 1_Einfuehrung/12_osi_schichtenmodell.md
       - file: some_content/text_and_code.ipynb
+    - file: 2_Netzwerktopologie/2_start.md
+      sections:
+      - file: 2_Netzwerktopologie/21_fruehere_topologien.md
+      - file: 2_Netzwerktopologie/22_aktuelle_topologien.md
     - file: references.md
