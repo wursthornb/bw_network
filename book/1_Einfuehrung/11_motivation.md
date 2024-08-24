@@ -7,3 +7,6 @@ Die Staatsoberhäupter von zwei Staaten möchten miteinander reden, sie sprechen
 
 _Bild_ fehlt noch 
 
+```{admonition}Frage
+Wie kommunizieren die Staarschefs miteinander?
+```
