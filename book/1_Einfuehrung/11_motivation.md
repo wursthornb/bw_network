@@ -7,6 +7,12 @@ Die Staatsoberhäupter von zwei Staaten möchten miteinander reden, sie sprechen
 
 _Bild_ fehlt noch 
 
+:::{figure-md} markdown-fig
+<img src="../figures/11_motivation_bild1.jpeg" alt="Kommunikation der Staatsoberhäupter">
+
+Kommunikation der Staatsoberhäupter
+:::
+
 ```{admonition} Frage
 Wie kommunizieren die Staarschefs miteinander?
 ```
